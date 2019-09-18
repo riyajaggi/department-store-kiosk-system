@@ -8,6 +8,7 @@ Application for shopping in a department store using kiosk system, coded in C++
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Files](#files)
+* [Usage](#usage)
 * [Screenshots](#screenshots)
 
 
@@ -40,6 +41,13 @@ TurboC++ can be downloaded here: <https://developerinsider.co/download-turbo-c-f
 PROFINAL1.CPP : source code  
 ITEMLIST.DAT : support file that contains data used by the source code  
 PROFIN~1.EXE : executable file that runs using TurboC++  
+
+
+<a name= "usage"></a>
+## Usage
+
+Please do not use the project without asking permission. Using the project means copying or downloading files and then submitting it as your own.
+
 
 <a name="screenshots"></a>
 ## Screenshots
