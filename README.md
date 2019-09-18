@@ -37,9 +37,9 @@ TurboC++ can be downloaded here: <https://developerinsider.co/download-turbo-c-f
 
 <a name="files"></a>
 ## Files
-PROFINAL1.CPP : source code
-ITEMLIST.DAT : support file that contains data used by the source code
-PROFIN~1.EXE : executable file that runs using TurboC++
+PROFINAL1.CPP : source code  
+ITEMLIST.DAT : support file that contains data used by the source code  
+PROFIN~1.EXE : executable file that runs using TurboC++  
 
 <a name="screenshots"></a>
 ## Screenshots
