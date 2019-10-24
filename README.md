@@ -54,20 +54,20 @@ Please do not use the project without asking permission. Using the project means
 ## Screenshots
 
 Welcome Screen
-![Welcome Screen](https://drive.google.com/uc?export=view&id=1Nk2Rckdcn9kmGl8sGTDHwyZZOAEtPDTV/)
+![Welcome Screen](https://drive.google.com/uc?export=view&id=1Nk2Rckdcn9kmGl8sGTDHwyZZOAEtPDTV)
 
 Instructions Screen
-![Instructions Screen](https://drive.google.com/uc?export=view&id=1eDZhcDUKTmRYNrFgdY5N487XC2XHfJUP/)
+![Instructions Screen](https://drive.google.com/uc?export=view&id=1eDZhcDUKTmRYNrFgdY5N487XC2XHfJUP)
 
 Main Menu
-![Main Menu](https://drive.google.com/uc?export=view&id=1X6Xb2YiGZn948B0z6cn3T5ddLemULcMp/)
+![Main Menu](https://drive.google.com/uc?export=view&id=1X6Xb2YiGZn948B0z6cn3T5ddLemULcMp)
 
 Adding to Cart
-![Adding to Cart](https://drive.google.com/uc?export=view&id=1SQq3coO4LrcU8J8HKLai53qRLiADYPIu/)
+![Adding to Cart](https://drive.google.com/uc?export=view&id=1SQq3coO4LrcU8J8HKLai53qRLiADYPIu)
 
 Cart
-![Cart](https://drive.google.com/uc?export=view&id=1PPT2RIQoCATbbModOro14jsbdQK4L30G/)
+![Cart](https://drive.google.com/uc?export=view&id=1PPT2RIQoCATbbModOro14jsbdQK4L30G)
 
 Checkout
-![Checkout](https://drive.google.com/uc?export=view&id=spR4pQfmTYbMdQ4hIHwrpsWppkuvUTen/)
+![Checkout](https://drive.google.com/uc?export=view&id=spR4pQfmTYbMdQ4hIHwrpsWppkuvUTen)
 
