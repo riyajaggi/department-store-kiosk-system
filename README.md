@@ -53,10 +53,10 @@ Please do not use the project without asking permission. Using the project means
 <a name="screenshots"></a>
 ## Screenshots
 
-![Welcome Screen](https://drive.google.com/file/d/1Nk2Rckdcn9kmGl8sGTDHwyZZOAEtPDTV/view?usp=sharing)
-![Instructions Screen](https://drive.google.com/file/d/1eDZhcDUKTmRYNrFgdY5N487XC2XHfJUP/view?usp=sharing)
-![Main Menu](https://drive.google.com/file/d/1X6Xb2YiGZn948B0z6cn3T5ddLemULcMp/view?usp=sharing)
-![Adding to Cart](https://drive.google.com/file/d/1SQq3coO4LrcU8J8HKLai53qRLiADYPIu/view?usp=sharing)
-![Cart](https://drive.google.com/file/d/1PPT2RIQoCATbbModOro14jsbdQK4L30G/view?usp=sharing)
-![Checkout](https://drive.google.com/file/d/1spR4pQfmTYbMdQ4hIHwrpsWppkuvUTen/view?usp=sharing)
+![Welcome Screen](https://drive.google.com/uc?export=view&id=1Nk2Rckdcn9kmGl8sGTDHwyZZOAEtPDTV/view?usp=sharing)
+![Instructions Screen](https://drive.google.com/uc?export=view&id=1eDZhcDUKTmRYNrFgdY5N487XC2XHfJUP/view?usp=sharing)
+![Main Menu](https://drive.google.com/uc?export=view&id=1X6Xb2YiGZn948B0z6cn3T5ddLemULcMp/view?usp=sharing)
+![Adding to Cart](https://drive.google.com/uc?export=view&id=1SQq3coO4LrcU8J8HKLai53qRLiADYPIu/view?usp=sharing)
+![Cart](https://drive.google.com/uc?export=view&id=1PPT2RIQoCATbbModOro14jsbdQK4L30G/view?usp=sharing)
+![Checkout](https://drive.google.com/uc?export=view&id=spR4pQfmTYbMdQ4hIHwrpsWppkuvUTen/view?usp=sharing)
 
