@@ -69,5 +69,4 @@ Cart
 ![Cart](https://drive.google.com/uc?export=view&id=1PPT2RIQoCATbbModOro14jsbdQK4L30G)
 
 Checkout
-![Checkout](https://drive.google.com/uc?export=view&id=spR4pQfmTYbMdQ4hIHwrpsWppkuvUTen)
-
+![Checkout](https://drive.google.com/uc?export=view&id=1spR4pQfmTYbMdQ4hIHwrpsWppkuvUTen)
