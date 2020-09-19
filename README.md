@@ -54,19 +54,25 @@ Please do not use the project without asking permission. Using the project means
 ## Screenshots
 
 Welcome Screen
-![Welcome Screen](https://drive.google.com/uc?export=view&id=1Nk2Rckdcn9kmGl8sGTDHwyZZOAEtPDTV)
+<img src="https://github.com/riyajaggi/department-store-kiosk-system/blob/master/screenshots/12P%201.jpg">
 
 Instructions Screen
-![Instructions Screen](https://drive.google.com/uc?export=view&id=1eDZhcDUKTmRYNrFgdY5N487XC2XHfJUP)
+<img src="https://github.com/riyajaggi/department-store-kiosk-system/blob/master/screenshots/12P%202.jpg">
 
 Main Menu
-![Main Menu](https://drive.google.com/uc?export=view&id=1X6Xb2YiGZn948B0z6cn3T5ddLemULcMp)
+<img src="https://github.com/riyajaggi/department-store-kiosk-system/blob/master/screenshots/12P%203.jpg">
+
+Creating New Customer Record
+<img src="https://github.com/riyajaggi/department-store-kiosk-system/blob/master/screenshots/12P%204.jpg">
+
+Purchase Menu
+<img src="https://github.com/riyajaggi/department-store-kiosk-system/blob/master/screenshots/12P%205.jpg">
 
 Adding to Cart
-![Adding to Cart](https://drive.google.com/uc?export=view&id=1SQq3coO4LrcU8J8HKLai53qRLiADYPIu)
+<img src="https://github.com/riyajaggi/department-store-kiosk-system/blob/master/screenshots/12P%206.jpg">
 
 Cart
-![Cart](https://drive.google.com/uc?export=view&id=1PPT2RIQoCATbbModOro14jsbdQK4L30G)
+<img src="https://github.com/riyajaggi/department-store-kiosk-system/blob/master/screenshots/12P%208.jpg">
 
 Checkout
-![Checkout](https://drive.google.com/uc?export=view&id=1spR4pQfmTYbMdQ4hIHwrpsWppkuvUTen)
+<img src="https://github.com/riyajaggi/department-store-kiosk-system/blob/master/screenshots/12P%209.jpg">
